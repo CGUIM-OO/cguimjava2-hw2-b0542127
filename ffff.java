@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 /**
  * @author TODO: please add student ID and name here
+ * b0542127аб╘с╬Г
  * Try to write some comments for your codes (methods, 15 points)
+ *
  */
 public class ffff {
 
